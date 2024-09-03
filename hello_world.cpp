@@ -1,4 +1,4 @@
-#include <iostream.h>
+#include<iostream.h>
 using nsamespace std;
 
 int main()
